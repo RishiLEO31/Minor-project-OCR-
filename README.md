@@ -1,4 +1,5 @@
 # Minor-project(OCR)
+Language translator using OCR
 ---------------------------------------
 
 There is a .exe file which needs to be installed in the computer system (tesseract.exe). I cannot upload the .exe file directly, 
