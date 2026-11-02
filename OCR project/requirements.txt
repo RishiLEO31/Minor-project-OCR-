@@ -1,0 +1,10 @@
+translate
+pytesseract
+Pillow
+# I was experimenting with the below modules. NOT Required.
+# ctranslate2
+# transformers<5
+# sentencepiece
+# huggingface-hub
+# libretranslatepy
+# deep-translator
