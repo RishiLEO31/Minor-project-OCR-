@@ -1,2 +1,2 @@
-# Minor-project-OCR-
+# Minor-project(OCR)
 Language translator using OCR
